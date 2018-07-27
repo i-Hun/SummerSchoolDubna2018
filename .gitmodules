@@ -1,0 +1,3 @@
+[submodule "NLP/embedding_evaluation"]
+	path = NLP/embedding_evaluation
+	url = https://github.com/k-kawakami/embedding-evaluation.git
