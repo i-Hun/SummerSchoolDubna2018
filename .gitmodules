@@ -1,3 +1,6 @@
 [submodule "NLP/embedding_evaluation"]
 	path = NLP/embedding_evaluation
-	url = https://github.com/k-kawakami/embedding-evaluation.git
+	url = https://github.com/EloiZ/embedding_evaluation.git
+[submodule "fdfd"]
+	path = NLP/embedding_evaluation
+	url = https://github.com/EloiZ/embedding_evaluation.git
